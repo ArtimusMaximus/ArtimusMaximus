@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArtimusMaximus
-- 👀 I’m interested in ...growing my skills overall as a developer.
-- 🌱 I’m currently learning ...Javascript, React, Node, Express, GraphQL, Mongodb
-- 💞️ I’m looking to collaborate on ...a fun, creative, and useful project
+- 👀 I’m interested in ...things involving creation, and creativity.
+- 🌱 I’m currently learning ...Server Side Rendering
+- 💞️ I’m looking to collaborate on ...a utility project that benefits the not-so-fortunate
 - 📫 How to reach me ...via one of my posts
 
 <!---
